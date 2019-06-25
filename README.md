@@ -4,7 +4,7 @@ Projeto desenvolvido em Kotlin utilizando o Android Studio 3.3.2.
 
 ## Instalação
 
-O Projeto pode ser aberto e executado no Android Studio, ou o apk pode ser instalado em SobDemana\apk\debug
+O Projeto pode ser aberto e executado no Android Studio, ou o apk pode ser instalado [APK](https://github.com/michaelcastro/SobDemanda/blob/master/apk/debug/app-debug.apk).
 
 ## Arquitetura
 
